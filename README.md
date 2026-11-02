@@ -1,14 +1,14 @@
 # 🐦 Tugas Praktikum 6 (TP6) - Flappy Bird 2D Game
 
-[![Java](https://img.shields.io/badge/Java-8%2B-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![GUI](https://img.shields.io/badge/GUI-Java%20Swing-blue?style=for-the-badge)](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
-[![Architecture](https://img.shields.io/badge/Architecture-MVC%20Pattern-success?style=for-the-badge)](#-arsitektur--struktur-kelas)
-[![Audio](https://img.shields.io/badge/Audio-Java%20Sound%20API-yellow?style=for-the-badge)](#-fitur-bonus-20-poin)
-
 Repositori ini memuat implementasi game 2D **Flappy Bird** berbasis desktop yang dibangun menggunakan bahasa pemrograman **Java** dan pustaka GUI **Java Swing**. Proyek ini dikembangkan untuk memenuhi penugasan **Tugas Praktikum 6 (TP6) Pemrograman Berbasis Objek (DPBO)** dengan menerapkan arsitektur modular (*Model-View-Controller* / MVC), manajemen layout multitampilan (*CardLayout*), deteksi tabrakan presisi (*bounding box intersection*), serta sistem pemutaran efek suara (*sound effects*).
 
 ---
 
+## 📑Janji
+
+Saya Muhiban Fadlan Nursaid dengan NIM 2400382 mengerjakan evaluasi Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+---
 ## 📑 Daftar Isi
 
 - [Fitur & Spesifikasi](#-fitur--spesifikasi)
@@ -20,6 +20,7 @@ Repositori ini memuat implementasi game 2D **Flappy Bird** berbasis desktop yang
 - [Panduan Menjalankan Proyek](#-panduan-menjalankan-proyek)
 
 ---
+
 
 ## ✨ Fitur & Spesifikasi
 
@@ -66,7 +67,7 @@ TP6DPBO2526C1/
 │   ├── SoundEffect.java
 │   └── View.java
 ├── Dokumentasi/
-│   └── (file video/gif/screenshot saat game berjalan)
+│   └── Dokumentasi.mkv
 ├── .gitignore
 └── README.md
 ```
@@ -323,10 +324,3 @@ Karena pipa dihasilkan berpasangan (pipa atas dan pipa bawah), setiap pipa yang 
   3. Jalankan kelas utama `App`.
 
 ---
-
-## 👥 Pengembang
-
-- **Mata Kuliah**: Desain & Pemrograman Berorientasi Objek (DPBO)
-- **Tugas**: Praktikum 6 (TP6) - Java Swing GUI Game
-- **Bahasa**: Java (JDK 8+)
-- **Lisensi**: Educational Project / Academic Use Only
